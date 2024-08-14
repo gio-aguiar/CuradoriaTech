@@ -82,7 +82,7 @@ Uma coleção de links e recursos úteis sobre tecnologia, cursos, materiais de 
   - [Autismo Tech](https://www.autismotech.com/)
  
 - **Palestras e eventos online para inclusão de PCDS**:
-  - [Autismo Tech](https://www.autismotech.com/)
+  - [Deficiencia Tech Start](https://www.deficienciatech.com.br/encontros)
 
 ## Geral
 
